@@ -1,0 +1,26 @@
+a {
+border: 2px solid black;
+padding-left: 24px;
+padding-right: 24px;
+width: 40px;
+height: 40px;
+display: inline-block;
+
+
+
+}
+.pro{
+    border: 2px solid black;
+    width: 150px;
+height: 140px;
+display: inline-block;
+
+
+}
+
+span{
+border: 2px solid black;
+}
+
+footer{
+    border: 2px solid black;}
